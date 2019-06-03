@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\ecec40bf42fcd2f39689b5523934dd13\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\5b1d9df277204c1fec22ae7b3a738304\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\22bb900db7ce0023b2bbef79912ad690\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\ecec40bf42fcd2f39689b5523934dd13\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\ecec40bf42fcd2f39689b5523934dd13\AndroidManifest.xml:22:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\5b1d9df277204c1fec22ae7b3a738304\AndroidManifest.xml:9:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\5b1d9df277204c1fec22ae7b3a738304\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\22bb900db7ce0023b2bbef79912ad690\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\22bb900db7ce0023b2bbef79912ad690\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.plainolnotes.MainActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:16:27-74
+provider#com.example.plainolnotes.NotesProvider
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:20:9-23:40
+	android:authorities
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:22:13-73
+	android:exported
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:21:13-42
+activity#com.example.plainolnotes.EditorActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:25:9-32:20
+	android:parentActivityName
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:28:13-55
+	android:label
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:26:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:29:13-31:73
+	android:value
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:31:17-70
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml:30:17-63
+uses-sdk
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\ecec40bf42fcd2f39689b5523934dd13\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\ecec40bf42fcd2f39689b5523934dd13\AndroidManifest.xml:20:5-43
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\5b1d9df277204c1fec22ae7b3a738304\AndroidManifest.xml:7:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\5b1d9df277204c1fec22ae7b3a738304\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\22bb900db7ce0023b2bbef79912ad690\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\koralis\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\22bb900db7ce0023b2bbef79912ad690\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_NoteTaking_Android\PlainOlNotes\app\src\main\AndroidManifest.xml
